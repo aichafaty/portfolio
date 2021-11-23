@@ -1,0 +1,25 @@
+
+.barre{
+    width: 5px;
+    height: 500px;
+    background-color: #c4c4c4;
+    position: relative;
+    margin-left: 20px;
+}
+.circle-position{
+    width: 10px;
+    height: 10px;
+    background-color: #ce0033;
+    border-radius: 50%;
+    position: absolute;
+    top: 60px;
+    left: 18px;
+}
+.line{
+    height: 3px;
+    width: 100px;
+    position: absolute;
+    background-color: #c4c4c4;
+    top: 104px;
+    left: 28px;
+}
