@@ -8,4 +8,5 @@ window.onload = function(){
       } else {
         back_to_top.display = "none";
       }
-    };
+    }
+  }
